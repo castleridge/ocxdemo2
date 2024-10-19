@@ -1,0 +1,9 @@
+node_modules
+.browser_modules
+plugins
+lib
+out
+*.vsix
+*.log
+*-app/*
+!*-app/package.json

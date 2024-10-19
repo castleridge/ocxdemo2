@@ -1,0 +1,1 @@
+This extensions contributes a sensor.
